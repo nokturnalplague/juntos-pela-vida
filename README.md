@@ -32,4 +32,4 @@ O site foi finalizado e divulgado via redes sociais, alcançando o objetivo de f
 
 ## 🧑‍💻 Autora
 
-**Nathália Dagort Ferlin**
+Nathália Dagort Ferlin
