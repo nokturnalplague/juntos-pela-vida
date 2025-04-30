@@ -5,7 +5,7 @@ Juntos Pela Vida é um site responsivo criado com o objetivo de informar a comun
 O site foi projetado para ser acessível e intuitivo para diferentes públicos, promovendo a conscientização sobre saúde mental.
 
 ## 🌐 Acesse o projeto
-Site Online: juntos-pela-vida.netlify.app
+https://nokturnalplague.github.io/juntos-pela-vida/
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
